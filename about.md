@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am an enthusiastic young adult who is ready for the challenges of the IT field!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My main current interests lie within System Administration, however I would like to branch out to automation, most likely through learning how to become an effective developement operations team member. I am planning on taking my RHCSA here within the next few weeks and will likely update my information page after that! Thanks for the visit.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zburns2014@gmail.com](mailto:zburns2014@gmail.com)
